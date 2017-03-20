@@ -9,5 +9,5 @@ if (Number(temp)) {
     table = table + "</table";
   }
 }else {
-  alert = ("Error");
+   alert("Error.  Please enter a number.");
 }
